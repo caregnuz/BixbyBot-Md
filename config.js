@@ -13,7 +13,7 @@ global.owner = [
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
-] //Numero degli owner
+ ['17378957963'],
 
 //────────────────────────────
 
