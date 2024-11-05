@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "+17378957963"
+global.confirmCode = "+17378957963"
 
 global.owner = [
   ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
